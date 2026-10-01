@@ -10,4 +10,6 @@ dependencies = [
     "langchain>=1.4.1",
     "langchain-core>=1.6.3",
     "langchain-google-genai>=4.4.0",
+    "langchain-openai>=1.6.2",
+    "trafilatura>=2.2.0",
 ]
